@@ -1,4 +1,4 @@
-# econ5560-replication-durham
+# econ5560-replication-patel
 # Everglades Replication Project
 
 ## Paper replicated
